@@ -5,3 +5,5 @@ Branch change 2
 Personal Branch change 1
 
 Personal Branch change 2
+
+Branch change 3
